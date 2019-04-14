@@ -55,7 +55,7 @@
                     <nav>
 						<ul class="cd-primary-nav">
                            <li><a href="index.php" class="animated_link">Home</a></li>
-                           <li><a href="about.php" class="animated_link">About Us</a></li>
+                           <li><a href="apply.php" class="animated_link">Apply Now</a></li>
                            <li><a href="contact.php" class="animated_link">Contact Us</a></li>
 						</ul>
 					</nav>
