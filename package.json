@@ -1,0 +1,24 @@
+{
+  "name": "dew",
+  "version": "1.0.0",
+  "description": "Developing the work-force for the future",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DOMINYON/dew.git"
+  },
+  "author": "Dominion, Caleb Adepitan",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/DOMINYON/dew/issues"
+  },
+  "homepage": "https://github.com/DOMINYON/dew#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.15.0"
+  }
+}
